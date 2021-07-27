@@ -3,6 +3,7 @@ All challenges were made with the Java programming language. The purpose of this
 
 | # | Title | My Solution | Difficulty | Status |
 |---| ----- | -------- | ---------- | ---------- |
-|01|[Two Sum](https://github.com/CleuJunior/leetcode-java/blob/main/challenges/src/_01_twoSum.java) | [Here](#) |Easy| Completed :heavy_check_mark: | 
-|09|[Palindrome Number](https://github.com/CleuJunior/leetcode-java/blob/main/challenges/src/_09_palindromeNaumber.java) | [Here](#) |Easy| Completed :heavy_check_mark: | 
+|01|[Two Sum](https://leetcode.com/problems/two-sum/) | [Here](https://github.com/CleuJunior/leetcode-java/blob/main/challenges/src/_01_twoSum.java) |Easy| Completed :heavy_check_mark: | 
+|09|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Here](https://github.com/CleuJunior/leetcode-java/blob/main/challenges/src/_09_palindromeNaumber.java) |Easy| Completed :heavy_check_mark: | 
+|1480|[Palindrome Number](https://leetcode.com/problems/running-sum-of-1d-array/) | [Here](https://github.com/CleuJunior/leetcode-java/blob/main/challenges/src/_1480_runningSumArray.java) |Easy| Completed :heavy_check_mark: |
 |-|[-](#) |-|-|-|
